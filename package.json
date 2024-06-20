@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is a backend apllication that is provid a  RESTFULL API'S",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kannanxyz/Backend.git"
+  },
+  "author": "thamarai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kannanxyz/Backend/issues"
+  },
+  "homepage": "https://github.com/kannanxyz/Backend#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
