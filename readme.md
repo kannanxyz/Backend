@@ -1,9 +1,5 @@
-# Backend Application
- ## discrition
- this is a backend apllication that is provid a  RESTFULL API'S
-
- TECHNOLOGIES
- -experss js
- -mongo db
- -mongos
- -node js
+## Expres js installation 
+### What is express 
+-API methods - GET, POST, PUT, DELETE
+-Request & response objects 
+-Url  &  Query parameters
